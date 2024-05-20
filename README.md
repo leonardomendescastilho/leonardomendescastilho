@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao meu GitHub 😊✌️</h1>
+<h1 align="center">Bem vindo ao meu GitHub!</h1>
 <h3 align="center"></h3>
 <h3 align="center"> Tecnologias que domino: </h3>
 <h4 align="center"> HTML | CSS | JAVASCRIPT | REACT | TYPESCRIPT </h4>
