@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">A enthusiastic frontend developer from Brazil!</h3>
+<h1 align="center">Bem vindo ao meu GitHub 😊✌️/h1>
+<h3 align="center"></h3>
 
 <h3 align="center"> JavaScript | TypeScript | React.JS | HTML | CSS | SQL <h3>
 
