@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao meu GitHub 😊✌️/h1>
+<h1 align="center">Bem vindo ao meu GitHub 😊✌️</h1>
 <h3 align="center"></h3>
 
 <h3 align="center"> JavaScript | TypeScript | React.JS | HTML | CSS | SQL <h3>
