@@ -7,6 +7,6 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomendescastilho&" alt="leonardomendescastilho">
+<img  height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomendescastilho&" alt="leonardomendescastilho">
 </p>
 
