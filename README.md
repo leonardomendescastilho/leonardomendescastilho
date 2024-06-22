@@ -14,3 +14,5 @@
 </p>
 
 
+email: leonardo.smendescastilho@gmail.com
+cel: (12) 98224-2771
