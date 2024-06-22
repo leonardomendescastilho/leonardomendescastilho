@@ -14,5 +14,5 @@
 </p>
 
 
-email: leonardo.smendescastilho@gmail.com
-cel: (12) 98224-2771
+<h5 align="start">email: <h6>leonardo.smendescastilho@gmail.com</h6></h5> 
+<h5 align="start">cel: <h6>(12) 98224-2771</h6></h5> 
