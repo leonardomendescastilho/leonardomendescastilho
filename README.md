@@ -14,7 +14,7 @@
 </p>
 
 <div>
-<h5 align="start">email: <h6>leonardo.smendescastilho@gmail.com</h6></h5> 
-<h5 align="start">Contato: <h6>(12) 98224-2771 link: https://wa.me/5512982242771?text=Ol%C3%A1%2C%20tudo%20bem%3F</h6></h5> 
+<h5 align="start">email: leonardo.smendescastilho@gmail.com</h5> 
+<h5 align="start">Contato:</h5> 
 </div>
 
