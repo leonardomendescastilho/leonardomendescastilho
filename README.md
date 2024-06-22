@@ -13,6 +13,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-
+<div>
 <h5 align="start">email: <h6>leonardo.smendescastilho@gmail.com</h6></h5> 
 <h5 align="start">cel: <h6>(12) 98224-2771</h6></h5> 
+</div>
+
