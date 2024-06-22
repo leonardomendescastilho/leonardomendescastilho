@@ -14,7 +14,8 @@
 </p>
 
 <div>
-<h5 align="start">email: leonardo.smendescastilho@gmail.com</h5> 
-<h5 align="start">Contato:</h5> 
+<h5>Contatos: </h5>
+<h6 align="">email: leonardo.smendescastilho@gmail.com</h6> 
+<h6 align="start">Contato: (12) 98224-2771</h6> 
 </div>
 
