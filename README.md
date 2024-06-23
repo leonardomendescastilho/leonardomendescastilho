@@ -2,6 +2,11 @@
 <h3 align="center"></h3>
 <h4 align="center"> HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT </h4>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,linux,postgres&perline=2" />
+  </a>
+</p>
 <p align="center"> 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,linux,postgres&perline=2)](https://skillicons.dev)
 </p>
