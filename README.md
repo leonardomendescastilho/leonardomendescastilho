@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
     <p>leonardo.smendescastilho@gmail.com</p>
