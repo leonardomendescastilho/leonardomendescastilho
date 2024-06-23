@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo✌️😊</h1>
+<h1 align="center">Bem vindo</h1>
 <h3 align="center">Tecnologias</h3>
 
 
