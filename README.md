@@ -9,7 +9,7 @@
 </p>
 <hr>
 <div>
-<h5><strong>Contatos:</strong></h5>
+<h5><strong>Contato</strong></h5>
 <h6 align="start">
     <strong>Email:</strong> <a href="mailto:leonardo.smendescastilho@gmail.com">leonardo.smendescastilho@gmail.com</a>
 </h6>
