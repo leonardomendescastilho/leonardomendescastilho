@@ -10,7 +10,7 @@
 
 <div>
 <h5>Contatos: </h5>
-<h6 align="">email: leonardo.smendescastilho@gmail.com</h6> 
-<h6 align="start">Contato: (12) 98224-2771</h6> 
+<h6 align="">Email: leonardo.smendescastilho@gmail.com</h6> 
+<h6 align="start">Telefone: (12) 98224-2771</h6> 
 </div>
 
