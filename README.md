@@ -1,6 +1,6 @@
-<h1 align="center">Bem vindo ao meu GitHub ✌️😊</h1>
+<h1 align="center">Bem vindo✌️😊</h1>
 <h3 align="center"></h3>
-<h4 align="center"> HTML | CSS | JAVASCRIPT | TYPESCRIPT | REACT </h4>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
