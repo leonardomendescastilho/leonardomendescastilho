@@ -10,8 +10,8 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
-    <p>leonardo.smendescastilho@gmail.com</p>
+   <img src="https://skillicons.dev/icons?i=gmail&perline=1"  <p>leonardo.smendescastilho@gmail.com</p> />
+   
   </a>
 </p>
 
