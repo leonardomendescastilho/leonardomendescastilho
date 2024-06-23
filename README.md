@@ -7,9 +7,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,linux,postgres&perline=2" />
   </a>
 </p>
-<p align="center"> 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,linux,postgres&perline=2)](https://skillicons.dev)
-</p>
 
 
 <div>
