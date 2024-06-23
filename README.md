@@ -8,6 +8,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
+    <p>leonardo.smendescastilho@gmail.com</p>
+  </a>
+</p>
 
 <div>
 <h5>Contatos: </h5>
