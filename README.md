@@ -8,5 +8,3 @@
   </a>
 </p>
 <hr>
-<div>
-<h5><strong>Contato</strong></h5>
