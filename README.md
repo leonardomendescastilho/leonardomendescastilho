@@ -7,4 +7,4 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,postgres,linux&perline=4" />
   </a>
 </p>
-<hr>
+
