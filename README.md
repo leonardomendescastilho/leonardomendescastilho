@@ -11,7 +11,8 @@ Apesar disso, possuo experiência com o ecossistema **Node.js**, **bancos de dad
 Meu objetivo é aprofundar meus conhecimentos em **frontend**, expandindo para áreas como **testes**, **infraestrutura**, **arquitetura de software**, **engenharia** e **liderança**. Mais do que um desenvolvedor, busco crescer em equipe, contribuir para **projetos inovadores**, assumir **papéis de liderança** e gerenciar iniciativas com **impacto**.
 
 
-### Tecnologias 🚀
+
 <div align="center">
+  ### Tecnologias 🚀
   <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,mongodb,postgres,nodejs,windows,linux&perline=15" alt="Tecnologias que utilizo" />
 </div>
