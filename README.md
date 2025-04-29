@@ -3,7 +3,7 @@
 
 <p align="center">
   <div>
-    <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,mongodb,postgres,nodejs,windows,linux&perline=4" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,mongodb,postgres,nodejs,windows,linux&perline=15" />
   </a>
 </p>
 
