@@ -12,8 +12,9 @@ Meu objetivo é aprofundar meus conhecimentos em **frontend**, expandindo para �
 
 
  <div align="center">
-  ### Tecnologias 🚀
-  </div>
+  <p> Tecnologias 🚀</p>
+ </div>
+ 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,mongodb,postgres,nodejs,windows,linux&perline=15" alt="Tecnologias que utilizo" />
 </div>
